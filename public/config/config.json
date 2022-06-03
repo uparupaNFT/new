@@ -1,16 +1,23 @@
 {
   "CONTRACT_ADDRESS": "0x2ae3E9EE4EDbd550E92098BbD33bA477BbB31e55",
+<<<<<<< HEAD
   "SCAN_LINK": "https://scope.klaytn.com/account/0x2ae3E9EE4EDbd550E92098BbD33bA477BbB31e55?tabId=txList",
   "NETWORK": {
     "NAME": "Klaytn Mainnet Cypress",
     "SYMBOL": "KLAY",
+=======
+  "SCAN_LINK": "https://scope.klaytn.com/nft/0x2ae3e9ee4edbd550e92098bbd33ba477bbb31e55?tabId=nftTransfer",
+  "NETWORK": {
+    "NAME": "Klaytn Mainnet Cypress",
+    "SYMBOL": "klaytn",
+>>>>>>> ebfe5ff127e2c5a4ce12065b8d05a4755c1580e2
     "ID": 8217
   },
   "NFT_NAME": "Part-time Uparupa",
   "SYMBOL": "PTU",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 100000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 45,
   "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/part-time-uparupa",
