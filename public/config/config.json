@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x8398c515427E4582c9834b2C59DeBF6F04E6ca6b",
-  "SCAN_LINK": "https://api.baobab.klaytn.net:8651/",
+  "CONTRACT_ADDRESS": "0x2ae3E9EE4EDbd550E92098BbD33bA477BbB31e55",
+  "SCAN_LINK": "https://scope.klaytn.com/nft/0x2ae3e9ee4edbd550e92098bbd33ba477bbb31e55?tabId=nftTransfer",
   "NETWORK": {
-    "NAME": "klaytn testnet baobab",
+    "NAME": "Klaytn Mainnet Cypress",
     "SYMBOL": "klaytn",
-    "ID": 1001
+    "ID": 8217
   },
   "NFT_NAME": "Part-time Uparupa",
   "SYMBOL": "PTU",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 100000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 45,
   "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
