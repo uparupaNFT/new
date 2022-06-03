@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8398c515427E4582c9834b2C59DeBF6F04E6ca6b",
+  "SCAN_LINK": "https://api.baobab.klaytn.net:8651/",
+  "NETWORK": {
+    "NAME": "klaytn testnet baobab",
+    "SYMBOL": "klaytn",
+    "ID": 1001
+  },
+  "NFT_NAME": "Part-time Uparupa",
+  "SYMBOL": "PTU",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
